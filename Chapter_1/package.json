@@ -1,0 +1,15 @@
+{
+  "name": "Chapter_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isUniqueChars.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
